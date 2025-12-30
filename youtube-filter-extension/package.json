@@ -1,8 +1,8 @@
 {
   "name": "youtube-content-filter",
-  "description": "Filter YouTube videos using AI to blur unproductive content",
+  "description": "Take back control of your YouTube feed. AI-powered filtering blurs distracting content so you decide what deserves your attention.",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "scripts": {
     "dev": "wxt",
